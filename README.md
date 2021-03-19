@@ -1,0 +1,2 @@
+# Serangkul
+Fundraising web app
